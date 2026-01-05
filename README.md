@@ -40,7 +40,7 @@ Data Scientist & AI Engineer
 
 <div align="center">
 
-**SDAIA AI Bootcamp - Week 3**
+**SDAIA AI Bootcamp - Week 4**
 **Deep Learning Week**
 
 
