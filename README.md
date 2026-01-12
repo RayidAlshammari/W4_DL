@@ -20,6 +20,19 @@ Repository for Deep Learning week assignments from SDAIA bootcamp
 **Exercises:** 5 exercises (DataLoader + model + training + evaluation)  
 **Result:** 90%+ accuracy & decode secret message!
 
+### C1M3_Assignment
+**Topic:** Advanced CNNs - Image Classification  
+**Data:** Custom dataset with multiple classes  
+**Model:** Convolutional Neural Networks (CNN)  
+**Exercises:** Deep learning techniques + model optimization
+
+### C1M4_Assignment
+**Topic:** Data Augmentation & Advanced CNNs  
+**Data:** CIFAR-100 dataset (100 classes)  
+**Model:** CNN with data augmentation to prevent overfitting  
+**Exercises:** Image transformations + regularization techniques  
+**Focus:** Building robust models that generalize better
+
 ---
 
 ## Status

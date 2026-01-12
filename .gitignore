@@ -13,3 +13,7 @@ __pycache__/
 # IDE
 .vscode/
 .idea/
+
+# Large dataset files
+C1M4_Assignment/cifar_100/
+*.tar.gz
